@@ -1,0 +1,7 @@
+# Arquivos e pastas específicos do Visual Studio Code
+.vscode/
+.code-workspace
+settings.json
+keybindings.json
+.idea/
+.DS_Store
