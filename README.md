@@ -20,7 +20,7 @@ Começei na programação desde 2009 e desde então não sossego!
 **Já tive a oportinidade de trabalhar com:**
 
 - `PHP`
-- `C# .Net Core / Frmework` <small> ⭐️ </small>
+- `C# .Net Core / Framework` <small> ⭐️ </small>
 - `Java SpringBoot`
 - `Node NestJS`
 - `Angular / AngularJs`
@@ -40,4 +40,4 @@ Amo a lingua inglesa, consigo me embananar 🍌 e me virar para falar e escrever
 - [Instagram](https://www.instagram.com/legitimoth/)
 - [Linkedin](https://www.linkedin.com/in/legitimoth/)
 
-**Nestas redes sociais eu te ajudo a crescer não somente profissionalmente, mas também como pessoa!**
+**Nestas redes sociais eu te ajudo a crescer não somente profissionalmente, mas também como pessoa!** 😉
