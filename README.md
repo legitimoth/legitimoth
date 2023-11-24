@@ -39,5 +39,6 @@ Amo a lingua inglesa, consigo me embananar 🍌 e me virar para falar e escrever
 - [YouTube](https://www.youtube.com/@legitimoth)
 - [Instagram](https://www.instagram.com/legitimoth/)
 - [Linkedin](https://www.linkedin.com/in/legitimoth/)
+- [Blog](https://dev.to/legitimoth)
 
 > **Nestas redes sociais eu te ajudo a crescer não somente profissionalmente, mas também como pessoa!** 😉
