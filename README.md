@@ -2,7 +2,7 @@
 
 # E ai turma 🙋🏻
 Meu nome é Thaynner Bastos, mas **conhecido como Th**!
-Sou Analista de Sistemas Pós Graduado em Engenharia DevOps.
+Sou Pós Graduado em Engenharia DevOps.
 Presto consultorias e atualmente trabalho como **Arquiteto de Software**.
 
 ---
